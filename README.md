@@ -232,8 +232,6 @@ Log levels:
 
 Allowed origins:
 - `http://localhost:4200` (local Angular dev)
-- `https://cv-analyzer-ui.vercel.app` (production frontend)
-
 Allows all methods, all headers, and credentials (cookies).
 
 ---
